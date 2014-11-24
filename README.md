@@ -1,4 +1,6 @@
 albertogcatalan.com
 ===================
 
-My personal website
+My personal website.
+
+Thanks to Héctor Muñoz by CSS.
