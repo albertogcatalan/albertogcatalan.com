@@ -79,6 +79,28 @@ body {
     position: relative;
     bottom:-0.15em; }
 
+@font-face {
+    font-family:'millolab-icons';
+    src:url("../fonts/millolab-icons.fontcustom_a86b8c0ef219be8718a4c7022d123b09.eot");
+    src:url("../fonts/millolab-icons.fontcustom_a86b8c0ef219be8718a4c7022d123b09.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/millolab-icons.fontcustom_a86b8c0ef219be8718a4c7022d123b09.woff") format("woff"),
+    url("../fonts/millolab-icons.fontcustom_a86b8c0ef219be8718a4c7022d123b09.ttf") format("truetype"),
+    url("../fonts/millolab-icons.fontcustom_a86b8c0ef219be8718a4c7022d123b09.svg?#millolab-icons") format("svg");
+    font-weight:normal;font-style:normal; }
+.fa-millolab:before {
+    content: "\f101";
+    font-family: 'millolab-icons';
+    font-weight: normal;
+    font-style: normal;
+    speak: none;
+    text-decoration: none;
+    text-transform: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1em;
+    position: relative;
+    bottom:-0.15em; }
+
 
 .logo { letter-spacing: -99999px; margin-bottom: 80px;}
 .logo h1 {color: transparent;}
