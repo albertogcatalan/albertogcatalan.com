@@ -58,28 +58,6 @@ body {
 }
 
 @font-face {
-    font-family:'medium-icons';
-    src:url("../fonts/medium-icons.RKi6ejayKSZJh0OTshbkRg.eot");
-    src:url("../fonts/medium-icons.RKi6ejayKSZJh0OTshbkRg.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/medium-icons.0qVySHWi3WfG-NkYbdM9ng.woff") format("woff"),
-    url("../fonts/medium-icons.mLsoGQwSP5s8oeib362mtQ.ttf") format("truetype"),
-    url("../fonts/medium-icons.YXqW0c1ibQa2SAL9POl_bw.svg?#medium-icons") format("svg");
-    font-weight:normal;font-style:normal; }
-.fa-medium:before {
-    content: "\f12a";
-    font-family: 'medium-icons';
-    font-weight: normal;
-    font-style: normal;
-    speak: none;
-    text-decoration: none;
-    text-transform: none;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    font-size: 1em;
-    position: relative;
-    bottom:-0.15em; }
-
-@font-face {
     font-family:'millolab-icons';
     src:url("../fonts/millolab-icons.fontcustom_a86b8c0ef219be8718a4c7022d123b09.eot");
     src:url("../fonts/millolab-icons.fontcustom_a86b8c0ef219be8718a4c7022d123b09.eot?#iefix") format("embedded-opentype"),
